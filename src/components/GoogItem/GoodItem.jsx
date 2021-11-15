@@ -20,8 +20,8 @@ export default function GoodItem(props) {
         <p>{subtitle}</p>
       </div>
       <div className="card-action">
-        <span >{price}</span>
-        <button className="btn right">Buy</button>
+        <span className="card-price">{price}</span>
+        <button className="btn right deep-purple accent-2">Buy</button>
       </div>
     </div>
   );

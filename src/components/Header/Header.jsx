@@ -1,6 +1,6 @@
 import React from "react";
 import './Header.css';
-import Logo from "../../img/logo.svg";
+import Logo from "../../img/logo1.svg";
 import GitIcon from "../../img/github.svg";
 /* import { Link } from "react-router-dom"; */
 
