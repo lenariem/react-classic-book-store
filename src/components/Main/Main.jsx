@@ -4,11 +4,13 @@ import "./Main.css";
 import Preloader from "../Preloader/Preloader";
 import GoodsList from "../GoodsList/GoodsList";
 import Cart from "../Cart/Cart";
+import CartList from "../CartList/CartList";
 
 export default function Main() {
   const [goods, setGoods] = useState([]);
   const [loading, setLoading] = useState(true);
   const [order, setOrder] = useState([]);
+  const [isCartShown, setCartShown] = useState(false);
 
   //fetch data from API
   const getData = (url, setValue) => {
@@ -22,6 +24,11 @@ export default function Main() {
         console.log(err);
         setLoading(false);
       });
+  };
+
+  //shown or hidden cart
+  const toggleCartDisplay = () => {
+    setCartShown(!isCartShown);
   };
 
   //add good to cart
@@ -58,13 +65,23 @@ export default function Main() {
 
   return (
     <main className="container content">
-      <Cart quantity={order.length} />
+      <Cart
+        order={order}
+        quantity={order.length}
+        toggleCartDisplay={toggleCartDisplay}
+      />
       {loading ? (
         <Preloader />
       ) : (
         <div>
           <GoodsList goods={goods} addToCart={addToCart} />
         </div>
+      )}
+
+      {isCartShown && (
+        <CartList
+          order={order}
+        />
       )}
     </main>
   );

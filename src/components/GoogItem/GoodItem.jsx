@@ -22,7 +22,7 @@ export default function GoodItem(props) {
       </div>
       <div className="card-action">
         <span className="card-price">{price}</span>
-        <button className="btn right cyan" onClick={() => addToCart({id, title, price})}>
+        <button className="btn right cyan" onClick={() => addToCart({id, title, price, image})}>
           Buy
         </button>
       </div>
