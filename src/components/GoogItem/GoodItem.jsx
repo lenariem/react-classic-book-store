@@ -5,9 +5,10 @@ export default function GoodItem(props) {
   const {
     isbn13: id,
     title = "No Info",
-    subtitle = "No Info",
-    image,
+    subtitle = "No description",
+    image = "No Book Cover available",
     price = "No Info",
+    addToCart = Function.prototype,
   } = props;
 
   return (
@@ -21,7 +22,9 @@ export default function GoodItem(props) {
       </div>
       <div className="card-action">
         <span className="card-price">{price}</span>
-        <button className="btn right deep-purple accent-2">Buy</button>
+        <button className="btn right cyan" onClick={() => addToCart({id, title, price})}>
+          Buy
+        </button>
       </div>
     </div>
   );
