@@ -11,11 +11,11 @@ const scrollToTop = () => {
 export default function Footer() {
   return (
     <footer className="page-footer">
-      <div className="footer-copyright orange accent-4">
+      <div className="footer-copyright deep-orange lighten-1">
         <div className="container">
           <p>© {new Date().getFullYear()} Copyright Elena Riemer</p>
           <button
-            className="btn purple darken-2"
+            className="btn deep-purple darken-2"
             title="Go to top"
             onClick={() => scrollToTop()}
           >

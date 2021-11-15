@@ -7,8 +7,8 @@ import GitIcon from "../../img/github.svg";
 export default function Header() {
   return (
     <header>
-      <nav className="orange accent-4">
-        <div className="nav-wrapper orange accent-4">
+      <nav className="deep-orange lighten-1">
+        <div className="nav-wrapper deep-orange lighten-1">
           {/* <Link to="/react-movie-search/"> */}
             <div className="brand-logo">
               <img src={Logo} alt="logo" className="logoIcon" />
