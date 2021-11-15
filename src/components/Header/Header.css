@@ -1,0 +1,23 @@
+nav {
+    padding: 0 1.4rem;
+  }
+  
+  nav ul a:hover {
+    background-color: transparent;
+  }
+  
+  .brand-logo {
+    cursor: pointer;
+  }
+  
+  .logoIcon {
+    width: 30px;
+  }
+  
+  .gitIcon {
+    display: block;
+    bottom: 100%;
+    left: 50%;
+    transform: translate(-50%, 50%) rotate(90deg);
+    cursor: pointer;
+  }
