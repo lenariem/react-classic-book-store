@@ -1,6 +1,6 @@
 import React from "react";
 import './Header.css';
-import Logo from "../../img/logo.png";
+import Logo from "../../img/logo.svg";
 import GitIcon from "../../img/github.svg";
 /* import { Link } from "react-router-dom"; */
 
@@ -11,7 +11,7 @@ export default function Header() {
         <div className="nav-wrapper orange accent-4">
           {/* <Link to="/react-movie-search/"> */}
             <div className="brand-logo">
-              React Movies <img src={Logo} alt="logo" className="logoIcon" />
+              <img src={Logo} alt="logo" className="logoIcon" />
             </div>
           {/* </Link> */}
 

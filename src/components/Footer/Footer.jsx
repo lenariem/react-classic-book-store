@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="container">
           <p>© {new Date().getFullYear()} Copyright Elena Riemer</p>
           <button
-            className="btn teal lighten-1"
+            className="btn purple darken-2"
             title="Go to top"
             onClick={() => scrollToTop()}
           >
