@@ -2,20 +2,34 @@ import React from "react";
 import "./CartList.css";
 import CartItem from "../CartItem/CartItem";
 
-export default function CartList({ order = [] }) {
+export default function CartList(props) {
+  const { order = [], toggleCartDisplay = Function.prototype } = props;
+  const totalPrice = Math.round(
+    order.reduce((sum, el) => {
+      return sum + +el.price.slice(1) * +el.quantity;
+    }, 0)
+  );
   return (
     <div className="cartContainer">
+      <h4 className="collection-item">Your Order: </h4>
       <ul class="collection">
-        Your Cart:
         {order.length ? (
           order.map((item) => <CartItem key={item.id} {...item} />)
         ) : (
-          <li className="collection-item avatar">
-            <p>Your cart is empty</p>
-          </li>
+          <li className="collection-item">Your cart is empty</li>
         )}
+        <li className="collection-item">
+          <b>Total price: <span className="secondary-content" style={{color: '#000'}}>{totalPrice}$</span></b>
+        </li>
       </ul>
-      <div>Total price: </div>
+
+      <i
+        className="material-icons cart-close"
+        onClick={toggleCartDisplay}
+        title="close cart"
+      >
+        close
+      </i>
     </div>
   );
 }

@@ -81,6 +81,7 @@ export default function Main() {
       {isCartShown && (
         <CartList
           order={order}
+          toggleCartDisplay={toggleCartDisplay}
         />
       )}
     </main>

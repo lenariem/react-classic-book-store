@@ -7,10 +7,10 @@ export default function CartItem({title, price, image, quantity}) {
       <img src={image} alt={title} className="circle" />
       <span className="title">{title}</span>
       <p>
-        {price} x {quantity}
+        {price} x {quantity} = {+price.slice(1) * +quantity}$
       </p>
       <span className="secondary-content" title="delete from your cart">
-        <i className="material-icons">close</i>
+        <i className="material-icons item-delete-icon">delete</i>
       </span>
     </li>
   );
