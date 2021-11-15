@@ -1,0 +1,3964 @@
+{
+    "result": true,
+    "fullShop": true,
+    "lastUpdate": {
+        "date": "2021-11-15 00:00:07+00:00",
+        "uid": "cbc7d5eed1664983c1dcee67cd44335610f74163"
+    },
+    "currentRotation": {
+        "Featured": "2021-11-16 00:00:00+00:00",
+        "Daily": "2021-11-16 00:00:00+00:00",
+        "BannerBrigade": "2021-11-16 00:00:00+00:00",
+        "BannerBrigade2": "2021-11-16 00:00:00+00:00",
+        "InSpaceB": "2021-11-16 00:00:00+00:00",
+        "Special": "2021-11-16 00:00:00+00:00"
+    },
+    "nextRotation": null,
+    "carousel": null,
+    "specialOfferVideo": null,
+    "shop": [
+        {
+            "mainId": "CID_784_Athena_Commando_F_RenegadeRaiderFire",
+            "displayName": "Blaze",
+            "displayDescription": "Fill the world with flames.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/d0e97702a52de8119ed8e378b330c1d4a623ba8f53a3e10ad7d893fba1ff1087",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_784_F_RenegadeRaiderFire",
+                    "materialInstance": "MI_CID_784_F_RenegadeRaiderFire",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_784_F_RenegadeRaiderFire/MI_CID_784_F_RenegadeRaiderFire.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/61353db005257542ce48c83d2485a24d/v2/MI_CID_784_F_RenegadeRaiderFire/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/61353db005257542ce48c83d2485a24d/v2/MI_CID_784_F_RenegadeRaiderFire/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2020-06-28",
+            "previousReleaseDate": "2021-10-05",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1500,
+                "finalPrice": 1500
+            },
+            "rarity": {
+                "id": "Legendary",
+                "name": "LEGENDARY"
+            },
+            "series": {
+                "id": "LavaSeries",
+                "name": "Lava Series"
+            },
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_784_Athena_Commando_F_RenegadeRaiderFire",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Blaze",
+                    "rarity": {
+                        "id": "Legendary",
+                        "name": "LEGENDARY"
+                    },
+                    "series": {
+                        "id": "LavaSeries",
+                        "name": "Lava Series"
+                    },
+                    "description": "Fill the world with flames.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/61353db005257542ce48c83d2485a24d/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/61353db005257542ce48c83d2485a24d/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/61353db005257542ce48c83d2485a24d/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/61353db005257542ce48c83d2485a24d/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "OutlawFire",
+                        "name": "Renegade Flame",
+                        "partOf": "Part of the Renegade Flame set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.13",
+                        "Cosmetics.Set.OutlawFire"
+                    ]
+                },
+                {
+                    "id": "BID_545_RenegadeRaiderFire",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Firestarter",
+                    "rarity": {
+                        "id": "Legendary",
+                        "name": "LEGENDARY"
+                    },
+                    "series": {
+                        "id": "LavaSeries",
+                        "name": "Lava Series"
+                    },
+                    "description": "Warning: Contents of firestarter may be hot.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/65a4013d96c8670f530f6ce5c117b913/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/65a4013d96c8670f530f6ce5c117b913/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/65a4013d96c8670f530f6ce5c117b913/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "OutlawFire",
+                        "name": "Renegade Flame",
+                        "partOf": "Part of the Renegade Flame set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.13",
+                        "Cosmetics.Set.OutlawFire"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 01"
+            ]
+        },
+        {
+            "mainId": "CID_315_Athena_Commando_M_TeriyakiFish",
+            "displayName": "Fishstick",
+            "displayDescription": "Keep far away from Maki Master.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/00fd6ad7b5d0668b4b9c0158450044d17c2c77acf5f6316440181239f7b93508",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_315_M_TeriyakiFish",
+                    "materialInstance": "MI_CID_315_M_TeriyakiFish",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_315_M_TeriyakiFish/MI_CID_315_M_TeriyakiFish.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish/info.en.png"
+                },
+                {
+                    "displayAsset": "DAv2_CID_315_M_TeriyakiFish",
+                    "materialInstance": "MI_CID_315_M_TeriyakiFish_02",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_315_M_TeriyakiFish/MI_CID_315_M_TeriyakiFish_02.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish_02/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish_02/info.en.png"
+                },
+                {
+                    "displayAsset": "DAv2_CID_315_M_TeriyakiFish",
+                    "materialInstance": "MI_CID_315_M_TeriyakiFish_03",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_315_M_TeriyakiFish/MI_CID_315_M_TeriyakiFish_03.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish_03/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/MI_CID_315_M_TeriyakiFish_03/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2018-12-27",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1200,
+                "finalPrice": 1200
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_315_Athena_Commando_M_TeriyakiFish",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Fishstick",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Keep far away from Maki Master.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/117f54c-2985b28-ee59013-a625629/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/117f54c-2985b28-ee59013-a625629/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.UserFacingFlags.HasVariants",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                },
+                {
+                    "id": "BID_193_TeriyakiFishMale",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Saltwater Satchel",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Keep the ocean at hand.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/fb2f652-572fc09-0256bae-ae394ee/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/fb2f652-572fc09-0256bae-ae394ee/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/fb2f652-572fc09-0256bae-ae394ee/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "Glider_ID_110_TeriyakiFish",
+            "displayName": "Coral Cruiser",
+            "displayDescription": "Ride the reef.",
+            "displayType": "Glider",
+            "mainType": "glider",
+            "offerId": "v2:/7e6fb22df93871280ae0c50cd0f7994bee0e7068dbe4ee1a977620c1c64e4baf",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Glider_ID_110_TeriyakiFish",
+                    "materialInstance": "MI_Glider_ID_110_TeriyakiFish",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Glider_ID_110_TeriyakiFish/MI_Glider_ID_110_TeriyakiFish.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/8a09a02-44788c4-55cfa87-1ce7cbd/v2/MI_Glider_ID_110_TeriyakiFish/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/8a09a02-44788c4-55cfa87-1ce7cbd/v2/MI_Glider_ID_110_TeriyakiFish/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2018-12-27",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Glider_ID_110_TeriyakiFish",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Coral Cruiser",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Ride the reef.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8a09a02-44788c4-55cfa87-1ce7cbd/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/8a09a02-44788c4-55cfa87-1ce7cbd/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/8a09a02-44788c4-55cfa87-1ce7cbd/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/8a09a02-44788c4-55cfa87-1ce7cbd/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                }
+            ],
+            "priority": -3,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "Pickaxe_ID_142_TeriyakiFish",
+            "displayName": "Bootstraps",
+            "displayDescription": "Weaponized boot on a stick.",
+            "displayType": "Harvesting Tool",
+            "mainType": "pickaxe",
+            "offerId": "v2:/cd7f0fee258ce6f9d5af0abcb8cb4f704cb2f8591d411e08dbec5223f60efbdb",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Pickaxe_ID_142_TeriyakiFish",
+                    "materialInstance": "MI_Pickaxe_ID_142_TeriyakiFish",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Pickaxe_ID_142_TeriyakiFish/MI_Pickaxe_ID_142_TeriyakiFish.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/90ca96e-597ad2e-41789a7-8535f91/v2/MI_Pickaxe_ID_142_TeriyakiFish/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/90ca96e-597ad2e-41789a7-8535f91/v2/MI_Pickaxe_ID_142_TeriyakiFish/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2018-12-27",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Pickaxe_ID_142_TeriyakiFish",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "Bootstraps",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Weaponized boot on a stick.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/90ca96e-597ad2e-41789a7-8535f91/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/90ca96e-597ad2e-41789a7-8535f91/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/90ca96e-597ad2e-41789a7-8535f91/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/90ca96e-597ad2e-41789a7-8535f91/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                }
+            ],
+            "priority": -4,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "Wrap_074_TeriyakiFishVR",
+            "displayName": "Slippery",
+            "displayDescription": "Show your style.",
+            "displayType": "Wrap",
+            "mainType": "wrap",
+            "offerId": "v2:/acf664da6dd8169a0d0f67b89d595e7c566102d38e26cfafa327edcfa1a4b606",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Wrap_074_TeriyakiFishVR",
+                    "materialInstance": "MI_Wrap_074_TeriyakiFishVR",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Wrap_074_TeriyakiFishVR/MI_Wrap_074_TeriyakiFishVR.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/7f9c5b17299cac4077017f8a5cae6a23/v2/MI_Wrap_074_TeriyakiFishVR/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/7f9c5b17299cac4077017f8a5cae6a23/v2/MI_Wrap_074_TeriyakiFishVR/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-05-24",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 300,
+                "finalPrice": 300
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Wrap_074_TeriyakiFishVR",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Slippery",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Show your style.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/7f9c5b17299cac4077017f8a5cae6a23/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/7f9c5b17299cac4077017f8a5cae6a23/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/7f9c5b17299cac4077017f8a5cae6a23/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/7f9c5b17299cac4077017f8a5cae6a23/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -5,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "Wrap_072_TeriyakiFish",
+            "displayName": "Fish Face",
+            "displayDescription": "Show your style.",
+            "displayType": "Wrap",
+            "mainType": "wrap",
+            "offerId": "v2:/5e95279e2784b38d94419660704542b04a5b2a46db73df2a8660798025ac78a3",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Wrap_072_TeriyakiFish",
+                    "materialInstance": "MI_Wrap_072_TeriyakiFish",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Wrap_072_TeriyakiFish/MI_Wrap_072_TeriyakiFish.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/4bcf41ce27a5365adf44dcae774b71e2/v2/MI_Wrap_072_TeriyakiFish/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/4bcf41ce27a5365adf44dcae774b71e2/v2/MI_Wrap_072_TeriyakiFish/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-05-24",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 300,
+                "finalPrice": 300
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Wrap_072_TeriyakiFish",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Fish Face",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Show your style.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4bcf41ce27a5365adf44dcae774b71e2/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4bcf41ce27a5365adf44dcae774b71e2/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/4bcf41ce27a5365adf44dcae774b71e2/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/4bcf41ce27a5365adf44dcae774b71e2/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -6,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "Wrap_073_TeriyakiFish2",
+            "displayName": "Fishy",
+            "displayDescription": "Show your style.",
+            "displayType": "Wrap",
+            "mainType": "wrap",
+            "offerId": "v2:/8211a811970e8ba8eea57f211b3478383d9f5fc5352de166921fefc88f659a6e",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Wrap_073_TeriyakiFish2",
+                    "materialInstance": "MI_Wrap_073_TeriyakiFish2",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Wrap_073_TeriyakiFish2/MI_Wrap_073_TeriyakiFish2.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/699b862cf88cc009ef4e34b44813d9a0/v2/MI_Wrap_073_TeriyakiFish2/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/699b862cf88cc009ef4e34b44813d9a0/v2/MI_Wrap_073_TeriyakiFish2/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-05-24",
+            "previousReleaseDate": "2021-10-13",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 300,
+                "finalPrice": 300
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Wrap_073_TeriyakiFish2",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Fishy",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Show your style.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/699b862cf88cc009ef4e34b44813d9a0/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/699b862cf88cc009ef4e34b44813d9a0/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/699b862cf88cc009ef4e34b44813d9a0/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/699b862cf88cc009ef4e34b44813d9a0/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "TeriyakiFish",
+                        "name": "Fish Food",
+                        "partOf": "Part of the Fish Food set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.TeriyakiFish",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -7,
+            "section": {
+                "id": "Featured",
+                "name": "Featured",
+                "landingPriority": 70
+            },
+            "groupIndex": 0,
+            "storeName": "BRWeeklyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 03"
+            ]
+        },
+        {
+            "mainId": "CID_433_Athena_Commando_F_TacticalDesert",
+            "displayName": "Desert Dominator",
+            "displayDescription": "Battle tested munitions expert.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/ee4d2106cc100fa2dea3b2d23d34c25370ddbca7061cd45168df5be481173753",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_433_F_TacticalDesert",
+                    "materialInstance": "MI_CID_433_F_TacticalDesert",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_433_F_TacticalDesert/MI_CID_433_F_TacticalDesert.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/a864864540f2dc1b3a8318063e85e910/v2/MI_CID_433_F_TacticalDesert/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/a864864540f2dc1b3a8318063e85e910/v2/MI_CID_433_F_TacticalDesert/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-06-09",
+            "previousReleaseDate": "2021-10-16",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_433_Athena_Commando_F_TacticalDesert",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Desert Dominator",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Battle tested munitions expert.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/a864864540f2dc1b3a8318063e85e910/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/a864864540f2dc1b3a8318063e85e910/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/a864864540f2dc1b3a8318063e85e910/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/a864864540f2dc1b3a8318063e85e910/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Normal",
+            "categories": [
+                "zzDaily 01"
+            ]
+        },
+        {
+            "mainId": "CID_297_Athena_Commando_F_Math",
+            "displayName": "Maven",
+            "displayDescription": "Victory is the common denominator.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/bd6efc6dd237074647c1c00843520c4ba0168cf1ab854a6accc61ccada1f1d11",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_297_F_Math",
+                    "materialInstance": "MI_CID_297_F_Math",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_297_F_Math/MI_CID_297_F_Math.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/07281f7-ee11071-8f145b9-bd81a3a/v2/MI_CID_297_F_Math/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/07281f7-ee11071-8f145b9-bd81a3a/v2/MI_CID_297_F_Math/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-01-06",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1200,
+                "finalPrice": 1200
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_297_Athena_Commando_F_Math",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Maven",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Victory is the common denominator.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/07281f7-ee11071-8f145b9-bd81a3a/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/07281f7-ee11071-8f145b9-bd81a3a/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/07281f7-ee11071-8f145b9-bd81a3a/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/07281f7-ee11071-8f145b9-bd81a3a/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Math",
+                        "name": "Calculator Crew",
+                        "partOf": "Part of the Calculator Crew set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Math",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                },
+                {
+                    "id": "BID_170_MathFemale",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Techie",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Boot up.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6dfaf2d-8c00062-24c85bb-a6dc506/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/6dfaf2d-8c00062-24c85bb-a6dc506/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/6dfaf2d-8c00062-24c85bb-a6dc506/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Math",
+                        "name": "Calculator Crew",
+                        "partOf": "Part of the Calculator Crew set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Math",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Normal",
+            "categories": [
+                "zzDaily 02"
+            ]
+        },
+        {
+            "mainId": "EID_Deflated_6POAZ",
+            "displayName": "Pump up the Jam",
+            "displayDescription": "Pump it up. Dance moves by Perri Kiely.",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/1f22512b60d63059bd1834854d84e9315712afe8a27a2d4dfa70855993300264",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_Deflated_6POAZ",
+                    "materialInstance": "MI_EID_Deflated",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_Deflated_6POAZ/MI_EID_Deflated.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/92943400b151f1a4de597605f4c4bd3e/v2/MI_EID_Deflated/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/92943400b151f1a4de597605f4c4bd3e/v2/MI_EID_Deflated/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-06-26",
+            "previousReleaseDate": "2021-10-12",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": {
+                "id": "CreatorCollabSeries",
+                "name": "Icon Series"
+            },
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_Deflated_6POAZ",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Pump up the Jam",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": {
+                        "id": "CreatorCollabSeries",
+                        "name": "Icon Series"
+                    },
+                    "description": "Pump it up. Dance moves by Perri Kiely.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/92943400b151f1a4de597605f4c4bd3e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/92943400b151f1a4de597605f4c4bd3e/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/92943400b151f1a4de597605f4c4bd3e/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/92943400b151f1a4de597605f4c4bd3e/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.17"
+                    ]
+                }
+            ],
+            "priority": -3,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "zzDaily 03"
+            ]
+        },
+        {
+            "mainId": "Glider_ID_104_Math",
+            "displayName": "Paper Plane",
+            "displayDescription": "Finely folded flyer.",
+            "displayType": "Glider",
+            "mainType": "glider",
+            "offerId": "v2:/63a82b274e812ebdeda633c055d020a2645f9077da4e3e0dbaef8ebde554a313",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Glider_ID_104_math",
+                    "materialInstance": "MI_Glider_ID_104_math",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Glider_ID_104_math/MI_Glider_ID_104_math.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/8dbc349-148ae41-ba6761a-a943402/v2/MI_Glider_ID_104_math/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/8dbc349-148ae41-ba6761a-a943402/v2/MI_Glider_ID_104_math/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-01-06",
+            "previousReleaseDate": "2021-09-15",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Glider_ID_104_Math",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Paper Plane",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Finely folded flyer.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8dbc349-148ae41-ba6761a-a943402/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/8dbc349-148ae41-ba6761a-a943402/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/8dbc349-148ae41-ba6761a-a943402/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/8dbc349-148ae41-ba6761a-a943402/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Math",
+                        "name": "Calculator Crew",
+                        "partOf": "Part of the Calculator Crew set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Math",
+                        "Cosmetics.Filter.Season.7"
+                    ]
+                }
+            ],
+            "priority": -4,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "zzDaily 04"
+            ]
+        },
+        {
+            "mainId": "EID_TakeTheW",
+            "displayName": "Savor The W",
+            "displayDescription": "This is what winning looks like.",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/b859a373089b792cb513f1ec41cabe3f9c0475a742cc20c73185b41ffaf4e0fd",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_TakeTheW",
+                    "materialInstance": "MI_EID_TakeTheW",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_TakeTheW/MI_EID_TakeTheW.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/82e30f878f81bc0928a8ee074a9a94cb/v2/MI_EID_TakeTheW/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/82e30f878f81bc0928a8ee074a9a94cb/v2/MI_EID_TakeTheW/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-25",
+            "previousReleaseDate": "2021-10-16",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_TakeTheW",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Savor The W",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "This is what winning looks like.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/82e30f878f81bc0928a8ee074a9a94cb/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/82e30f878f81bc0928a8ee074a9a94cb/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/82e30f878f81bc0928a8ee074a9a94cb/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/82e30f878f81bc0928a8ee074a9a94cb/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Phoebe.Cosmetic.Minus.Zone1",
+                        "Phoebe.Cosmetic.Minus.Zone2",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -5,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "zzDaily 05"
+            ]
+        },
+        {
+            "mainId": "EID_PuzzleBox",
+            "displayName": "Amazing Cube",
+            "displayDescription": "Wow your friends! Intimidate your enemies! Be a hit at parties!",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/d17a34cbee32ccaddcbe8f572b093c2aa5236da113c772dd5de06e816aa73b86",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_PuzzleBox",
+                    "materialInstance": "MI_EID_PuzzleBox",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_PuzzleBox/MI_EID_PuzzleBox.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/08cf91f8536407baeedc478b321db67f/v2/MI_EID_PuzzleBox/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/08cf91f8536407baeedc478b321db67f/v2/MI_EID_PuzzleBox/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-03-18",
+            "previousReleaseDate": "2021-08-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 200,
+                "finalPrice": 200
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_PuzzleBox",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Amazing Cube",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Wow your friends! Intimidate your enemies! Be a hit at parties!",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/08cf91f8536407baeedc478b321db67f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/08cf91f8536407baeedc478b321db67f/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/08cf91f8536407baeedc478b321db67f/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/08cf91f8536407baeedc478b321db67f/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.16",
+                        "Emote.Mech.Disabled.Art"
+                    ]
+                }
+            ],
+            "priority": -6,
+            "section": {
+                "id": "Daily",
+                "name": "Daily",
+                "landingPriority": 60
+            },
+            "groupIndex": 0,
+            "storeName": "BRDailyStorefront",
+            "tileSize": "Small",
+            "categories": [
+                "zzDaily 06"
+            ]
+        },
+        {
+            "mainId": "Banner_Female_Bundle",
+            "displayName": "BANNER'S BRAVEST BUNDLE",
+            "displayDescription": "",
+            "displayType": "Outfit",
+            "mainType": "bundle",
+            "offerId": "v2:/a7af0242c890dacc18cbd42befccabeb630c57531783775a38cfa7f5496e22ca",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Bundle_Featured_Banner_Female",
+                    "materialInstance": "MI_Bundle_Featured_Banner_Female",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Bundle_Featured_Banner_Female/MI_Bundle_Featured_Banner_Female.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/0a5ed1ddd9e3a01ae0b37e56df5a2ca6/v2/MI_Bundle_Featured_Banner_Female/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/0a5ed1ddd9e3a01ae0b37e56df5a2ca6/v2/MI_Bundle_Featured_Banner_Female/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-06-17",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 3200,
+                "finalPrice": 2000
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": {
+                "id": "vbucksoff",
+                "name": "1200 V-Bucks Off",
+                "intensity": "Low"
+            },
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_442_Athena_Commando_F_BannerA",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Banner Trooper",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d54d10e4c617f6b45625e95536d15422/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_443_Athena_Commando_F_BannerB",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Sgt. Sigil",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0f2cdaabd101de2406632f891ebab4d6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_445_Athena_Commando_F_BannerD",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Marked Marauder",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/dd61eceb80d87da4f4357b485813fd8d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_444_Athena_Commando_F_BannerC",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Branded Brigadier",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/18aa9056fd4b1b6a1167253f794d0efa/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "BannerBrigade",
+                "name": "Banner Brigade",
+                "landingPriority": 65
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "DoubleWide",
+            "categories": [
+                "Panel 01"
+            ]
+        },
+        {
+            "mainId": "Banner_Male_Bundle",
+            "displayName": "BANNER'S BOLDEST BUNDLE",
+            "displayDescription": "",
+            "displayType": "Outfit",
+            "mainType": "bundle",
+            "offerId": "v2:/a3d095f14ab1af1bcd566974e9e38549dfbb2d2a24cc75f7e38a91af4afbdaa1",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Bundle_Featured_Banner_Male",
+                    "materialInstance": "MI_Bundle_Featured_Banner_Male",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Bundle_Featured_Banner_Male/MI_Bundle_Featured_Banner_Male.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/578db6ab1ccc5f2c7ec2d38e854a7867/v2/MI_Bundle_Featured_Banner_Male/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/578db6ab1ccc5f2c7ec2d38e854a7867/v2/MI_Bundle_Featured_Banner_Male/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-06-17",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 3200,
+                "finalPrice": 2000
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": {
+                "id": "vbucksoff",
+                "name": "1200 V-Bucks Off",
+                "intensity": "Low"
+            },
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_448_Athena_Commando_M_BannerC",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Branded Brawler",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f0bfe38b0a312264df3ccf4bfb933aa6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_446_Athena_Commando_M_BannerA",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Symbol Stalwart",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_447_Athena_Commando_M_BannerB",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Signature Sniper",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/7b37e01cda9c79d51fff5ed39ca21c50/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "CID_449_Athena_Commando_M_BannerD",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Lt. Logo",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0fac5e47b4c6142e3dd1bdab72829e5a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "BannerBrigade",
+                "name": "Banner Brigade",
+                "landingPriority": 65
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "DoubleWide",
+            "categories": [
+                "Panel 01"
+            ]
+        },
+        {
+            "mainId": "Banner_Gear_Bundle",
+            "displayName": "BANNER GEAR BUNDLE",
+            "displayDescription": "",
+            "displayType": "Item Bundle",
+            "mainType": "bundle",
+            "offerId": "v2:/b3be9d29b5b7ee5d87721520a3cccf19e5052754af4b448b92638e7f1ffa34b8",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Bundle_Featured_Banner_Gear",
+                    "materialInstance": "MI_Bundle_Featured_Banner_Gear",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Bundle_Featured_Banner_Gear/MI_Bundle_Featured_Banner_Gear.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/168fc8cb2b184df930c025584cb6d36e/v2/MI_Bundle_Featured_Banner_Gear/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/168fc8cb2b184df930c025584cb6d36e/v2/MI_Bundle_Featured_Banner_Gear/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-06-17",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 2800,
+                "finalPrice": 1600
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": {
+                "id": "vbucksoff",
+                "name": "1200 V-Bucks Off",
+                "intensity": "Low"
+            },
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Wrap_177_Banner",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Banner",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Show your style.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/686c07c4452f7003f3e1ea33eabb873f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/686c07c4452f7003f3e1ea33eabb873f/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.12",
+                        "Cosmetics.Set.Banner"
+                    ]
+                },
+                {
+                    "id": "BID_289_Banner",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Banner Cape",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4a4b82ef0aaf79789f68c9e43cee9511/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4a4b82ef0aaf79789f68c9e43cee9511/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Phoebe.Cosmetic.Minus.Zone2",
+                        "Phoebe.Cosmetic.Minus.Zone1",
+                        "Cosmetics.Filter.Season.9",
+                        "Cosmetics.Backpack.IsCape"
+                    ]
+                },
+                {
+                    "id": "BID_334_BannerMale",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Banner Shield",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/60ebde5775e1d515be0a45a8b241cf14/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/60ebde5775e1d515be0a45a8b241cf14/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Phoebe.Cosmetic.Minus.Zone2",
+                        "Phoebe.Cosmetic.Minus.Zone1",
+                        "Cosmetics.Filter.Season.10"
+                    ]
+                },
+                {
+                    "id": "Pickaxe_ID_222_Banner",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "Emblematic",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/903041685a1e4b9bd6b807c8d998f4a3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/903041685a1e4b9bd6b807c8d998f4a3/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                },
+                {
+                    "id": "EID_BannerFlagWave",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Banner Wave",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Show your true colors. ",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/892dafa71a5d4305696d7dc68324a5b9/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/892dafa71a5d4305696d7dc68324a5b9/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.11"
+                    ]
+                },
+                {
+                    "id": "Glider_ID_153_Banner",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Custom Cruiser",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Fly your banner.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d6d7a94e6b3e4976d88b6fd5b78bf99e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/d6d7a94e6b3e4976d88b6fd5b78bf99e/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -3,
+            "section": {
+                "id": "BannerBrigade",
+                "name": "Banner Brigade",
+                "landingPriority": 65
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 01"
+            ]
+        },
+        {
+            "mainId": "CID_445_Athena_Commando_F_BannerD",
+            "displayName": "Marked Marauder",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/9c71606e20b80a087e22832b06a7174d9d6e3fd6ed2117fc97bbd9f5e9526c23",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_445_F_BannerD",
+                    "materialInstance": "MI_CID_445_F_BannerD_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_445_F_BannerD/MI_CID_445_F_BannerD_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/MI_CID_445_F_BannerD_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/MI_CID_445_F_BannerD_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_445_Athena_Commando_F_BannerD",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Marked Marauder",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/dd61eceb80d87da4f4357b485813fd8d/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/dd61eceb80d87da4f4357b485813fd8d/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "CID_442_Athena_Commando_F_BannerA",
+            "displayName": "Banner Trooper",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/6cec4ba3b18b9aac274c5ee567afab0d32b814fc11364b0923d03921aa406192",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_442_F_BannerA",
+                    "materialInstance": "MI_CID_442_F_BannerA_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_442_F_BannerA/MI_CID_442_F_BannerA_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/MI_CID_442_F_BannerA_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/MI_CID_442_F_BannerA_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_442_Athena_Commando_F_BannerA",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Banner Trooper",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d54d10e4c617f6b45625e95536d15422/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/d54d10e4c617f6b45625e95536d15422/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "CID_444_Athena_Commando_F_BannerC",
+            "displayName": "Branded Brigadier",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/599d42fd3747bd5f341b8d2d0dfbe34ac7033448f8878c053a33a8201bbacbef",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_444_F_BannerC",
+                    "materialInstance": "MI_CID_444_F_BannerC_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_444_F_BannerC/MI_CID_444_F_BannerC_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/MI_CID_444_F_BannerC_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/MI_CID_444_F_BannerC_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_444_Athena_Commando_F_BannerC",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Branded Brigadier",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/18aa9056fd4b1b6a1167253f794d0efa/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/18aa9056fd4b1b6a1167253f794d0efa/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -3,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "CID_443_Athena_Commando_F_BannerB",
+            "displayName": "Sgt. Sigil",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/974cd5266ded4ec16cc494cd601323a5c55f3aa4c91f96e34cb01811fb9a7fa9",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_443_F_BannerB",
+                    "materialInstance": "MI_CID_443_F_BannerB_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_443_F_BannerB/MI_CID_443_F_BannerB_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/MI_CID_443_F_BannerB_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/MI_CID_443_F_BannerB_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_443_Athena_Commando_F_BannerB",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Sgt. Sigil",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0f2cdaabd101de2406632f891ebab4d6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/0f2cdaabd101de2406632f891ebab4d6/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -4,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 02"
+            ]
+        },
+        {
+            "mainId": "CID_448_Athena_Commando_M_BannerC",
+            "displayName": "Branded Brawler",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/f422f80d1012cd7189236e63efcf91f474bdd9778fd9fe9e4740197753fe3fd2",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_448_M_BannerC",
+                    "materialInstance": "MI_CID_448_M_BannerC_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_448_M_BannerC/MI_CID_448_M_BannerC_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/MI_CID_448_M_BannerC_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/MI_CID_448_M_BannerC_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_448_Athena_Commando_M_BannerC",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Branded Brawler",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/f0bfe38b0a312264df3ccf4bfb933aa6/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/f0bfe38b0a312264df3ccf4bfb933aa6/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -5,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 03"
+            ]
+        },
+        {
+            "mainId": "CID_446_Athena_Commando_M_BannerA",
+            "displayName": "Symbol Stalwart",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/0e08197ec707210369ff99b822b556260fbf6ac677050b8a07f071965d4a0481",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_446_M_BannerBA",
+                    "materialInstance": "MI_CID_446_M_BannerA_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_446_M_BannerBA/MI_CID_446_M_BannerA_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/MI_CID_446_M_BannerA_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/MI_CID_446_M_BannerA_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_446_Athena_Commando_M_BannerA",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Symbol Stalwart",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/5d20f6c9fb8851f92ee9ec086be1809e/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/5d20f6c9fb8851f92ee9ec086be1809e/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -6,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 03"
+            ]
+        },
+        {
+            "mainId": "CID_449_Athena_Commando_M_BannerD",
+            "displayName": "Lt. Logo",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/0837d77dcf706d037a5c5afa80e628d6cda0e5ea6f2ac79230092779b8730fff",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_449_M_BannerD",
+                    "materialInstance": "MI_CID_449_M_BannerD_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_449_M_BannerD/MI_CID_449_M_BannerD_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/MI_CID_449_M_BannerD_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/MI_CID_449_M_BannerD_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_449_Athena_Commando_M_BannerD",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Lt. Logo",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/0fac5e47b4c6142e3dd1bdab72829e5a/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/0fac5e47b4c6142e3dd1bdab72829e5a/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -7,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 03"
+            ]
+        },
+        {
+            "mainId": "CID_447_Athena_Commando_M_BannerB",
+            "displayName": "Signature Sniper",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/f9f1dad8cc3a1cc464c45b51bdcbaddaacdc642edfc413cb0788d54ef4f6c5f7",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_447_M_BannerB",
+                    "materialInstance": "MI_CID_447_M_BannerB_Colored",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_447_M_BannerB/MI_CID_447_M_BannerB_Colored.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/MI_CID_447_M_BannerB_Colored/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/MI_CID_447_M_BannerB_Colored/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_447_Athena_Commando_M_BannerB",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Signature Sniper",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/7b37e01cda9c79d51fff5ed39ca21c50/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/7b37e01cda9c79d51fff5ed39ca21c50/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -8,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 03"
+            ]
+        },
+        {
+            "mainId": "BID_289_Banner",
+            "displayName": "Banner Cape",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "BackBling",
+            "mainType": "backpack",
+            "offerId": "v2:/dd31af06063dd7237095c0e9f911b60c5a8e557bf9e6c8475e490767ff4110cc",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_BID_289_Banner",
+                    "materialInstance": "MI_BID_289_Banner",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_BID_289_Banner/MI_BID_289_Banner.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/MI_BID_289_Banner/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/MI_BID_289_Banner/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 400,
+                "finalPrice": 400
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "BID_289_Banner",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Banner Cape",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/4a4b82ef0aaf79789f68c9e43cee9511/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/4a4b82ef0aaf79789f68c9e43cee9511/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/4a4b82ef0aaf79789f68c9e43cee9511/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Phoebe.Cosmetic.Minus.Zone2",
+                        "Phoebe.Cosmetic.Minus.Zone1",
+                        "Cosmetics.Filter.Season.9",
+                        "Cosmetics.Backpack.IsCape"
+                    ]
+                }
+            ],
+            "priority": -9,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 04"
+            ]
+        },
+        {
+            "mainId": "BID_334_BannerMale",
+            "displayName": "Banner Shield",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "BackBling",
+            "mainType": "backpack",
+            "offerId": "v2:/dd73e1a423a9f9ded50f6fc6f2f5cc41e26af12bba28140cb395a2d83103bb10",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_BID_334_BannerMale",
+                    "materialInstance": "MI_BID_334_BannerMale",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_BID_334_BannerMale/MI_BID_334_BannerMale.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/MI_BID_334_BannerMale/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/MI_BID_334_BannerMale/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-08-16",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 400,
+                "finalPrice": 400
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "BID_334_BannerMale",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Banner Shield",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/60ebde5775e1d515be0a45a8b241cf14/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/60ebde5775e1d515be0a45a8b241cf14/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/60ebde5775e1d515be0a45a8b241cf14/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Phoebe.Cosmetic.Minus.Zone2",
+                        "Phoebe.Cosmetic.Minus.Zone1",
+                        "Cosmetics.Filter.Season.10"
+                    ]
+                }
+            ],
+            "priority": -10,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 04"
+            ]
+        },
+        {
+            "mainId": "Pickaxe_ID_222_Banner",
+            "displayName": "Emblematic",
+            "displayDescription": "Customize your look by choosing a Banner and color in your Locker.",
+            "displayType": "Harvesting Tool",
+            "mainType": "pickaxe",
+            "offerId": "v2:/e90325b9065443b8aa5446b6ef1b338b53a2b40de9f76e4e074eb5bb2ad07c69",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Pickaxe_ID_222_Banner",
+                    "materialInstance": "MI_Pickaxe_ID_222_Banner",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Pickaxe_ID_222_Banner/MI_Pickaxe_ID_222_Banner.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/MI_Pickaxe_ID_222_Banner/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/MI_Pickaxe_ID_222_Banner/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Pickaxe_ID_222_Banner",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "Emblematic",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Customize your look by choosing a Banner and color in your Locker.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/903041685a1e4b9bd6b807c8d998f4a3/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/903041685a1e4b9bd6b807c8d998f4a3/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/903041685a1e4b9bd6b807c8d998f4a3/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -11,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 04"
+            ]
+        },
+        {
+            "mainId": "EID_BannerFlagWave",
+            "displayName": "Banner Wave",
+            "displayDescription": "Show your true colors. ",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/e1b6d8e4de8c1e0fb18788d6f8b828c567b4e721042990d8e144af67b29af993",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_BannerFlagWave",
+                    "materialInstance": "MI_EID_BannerFlagWave",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_BannerFlagWave/MI_EID_BannerFlagWave.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/MI_EID_BannerFlagWave/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/MI_EID_BannerFlagWave/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-12-19",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_BannerFlagWave",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Banner Wave",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Show your true colors. ",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/892dafa71a5d4305696d7dc68324a5b9/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/892dafa71a5d4305696d7dc68324a5b9/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/892dafa71a5d4305696d7dc68324a5b9/v2/info.en.png"
+                    },
+                    "set": null,
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.11"
+                    ]
+                }
+            ],
+            "priority": -12,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 04"
+            ]
+        },
+        {
+            "mainId": "Wrap_177_Banner",
+            "displayName": "Banner",
+            "displayDescription": "Show your style.",
+            "displayType": "Wrap",
+            "mainType": "wrap",
+            "offerId": "v2:/a11d82ae2b7fd51592de0461053d7fc2b1cbcea09bc622a465fbaed87d2d04d6",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Wrap_177_Banner",
+                    "materialInstance": "MI_Wrap_177_Banner",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Wrap_177_Banner/MI_Wrap_177_Banner.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/MI_Wrap_177_Banner/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/MI_Wrap_177_Banner/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2020-05-03",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Wrap_177_Banner",
+                    "type": {
+                        "id": "wrap",
+                        "name": "Wrap"
+                    },
+                    "name": "Banner",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Show your style.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/686c07c4452f7003f3e1ea33eabb873f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/686c07c4452f7003f3e1ea33eabb873f/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/686c07c4452f7003f3e1ea33eabb873f/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.12",
+                        "Cosmetics.Set.Banner"
+                    ]
+                }
+            ],
+            "priority": -13,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 04"
+            ]
+        },
+        {
+            "mainId": "Glider_ID_153_Banner",
+            "displayName": "Custom Cruiser",
+            "displayDescription": "Fly your banner.",
+            "displayType": "Glider",
+            "mainType": "glider",
+            "offerId": "v2:/c449d0020a858ecc204254980fb57e4bcbe934be572f97829844aaa49a8ed98e",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Glider_ID_153_Banner",
+                    "materialInstance": "MI_Glider_ID_153_Banner",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Glider_ID_153_Banner/MI_Glider_ID_153_Banner.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/MI_Glider_ID_153_Banner/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/MI_Glider_ID_153_Banner/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2019-07-18",
+            "previousReleaseDate": "2021-09-26",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 500,
+                "finalPrice": 500
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Glider_ID_153_Banner",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Custom Cruiser",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "Fly your banner.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/d6d7a94e6b3e4976d88b6fd5b78bf99e/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/d6d7a94e6b3e4976d88b6fd5b78bf99e/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/d6d7a94e6b3e4976d88b6fd5b78bf99e/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "Banner",
+                        "name": "Banner Brigade",
+                        "partOf": "Part of the Banner Brigade set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.Banner",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.9"
+                    ]
+                }
+            ],
+            "priority": -14,
+            "section": {
+                "id": "BannerBrigade2",
+                "name": "Banner Brigade",
+                "landingPriority": 1
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 05"
+            ]
+        },
+        {
+            "mainId": "KeplerBundle",
+            "displayName": "Ripley & Xenomorph Bundle",
+            "displayDescription": "",
+            "displayType": "Item Bundle",
+            "mainType": "bundle",
+            "offerId": "v2:/c5b5f8242eff6526f6d7fdfb6e8d056914026d448cdfda2232db69df61e5a0ab",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Featured_KeplerBundle",
+                    "materialInstance": "MI_Bundle_Featured_Kepler",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Featured_KeplerBundle/MI_Bundle_Featured_Kepler.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/c0718752294d9f7a0e2e23a147f4b598/v2/MI_Bundle_Featured_Kepler/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/c0718752294d9f7a0e2e23a147f4b598/v2/MI_Bundle_Featured_Kepler/info.en.png"
+                },
+                {
+                    "displayAsset": "DAv2_Featured_KeplerBundle",
+                    "materialInstance": "MI_Bundle_Featured_Kepler_02",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Featured_KeplerBundle/MI_Bundle_Featured_Kepler_02.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/c0718752294d9f7a0e2e23a147f4b598/v2/MI_Bundle_Featured_Kepler_02/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/c0718752294d9f7a0e2e23a147f4b598/v2/MI_Bundle_Featured_Kepler_02/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 3100,
+                "finalPrice": 2200
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": null,
+            "banner": {
+                "id": "vbucksoff",
+                "name": "900 V-Bucks Off",
+                "intensity": "Low"
+            },
+            "offerTag": {
+                "id": "loadingscreenincluded",
+                "text": "Loading Screen Included!"
+            },
+            "granted": [
+                {
+                    "id": "CID_A_025_Athena_Commando_M_Kepler_UEN6V",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Xenomorph",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "If you see it coming, it's already too late.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/aeb82b7ba67cc619a5f0490cb4560ab1/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/aeb82b7ba67cc619a5f0490cb4560ab1/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.UserFacingFlags.BuiltInEmote",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "BID_703_KeplerMale_ZTFJU",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Xenomorph Tail",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Razor-sharp and whatever the exact opposite of cuddly is.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/66df9bdbda49180e878b8bdbc068342b/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/66df9bdbda49180e878b8bdbc068342b/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/66df9bdbda49180e878b8bdbc068342b/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip",
+                        "Cosmetics.Backpack.IsCape"
+                    ]
+                },
+                {
+                    "id": "CID_A_026_Athena_Commando_F_Kepler_2G59M",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Ellen Ripley",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Last survivor of the Nostromo.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/37b2e41f10e1c53d4a170c0519148e94/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/37b2e41f10e1c53d4a170c0519148e94/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.UserFacingFlags.HasVariants",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "BID_704_KeplerFemale_C0L25",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Weyland-Yutani Cat Carrier",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Jonesy's home-on-the-go. (No relation)",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/734ae6d4474ac22ac8f6b3654885b9e2/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/734ae6d4474ac22ac8f6b3654885b9e2/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/734ae6d4474ac22ac8f6b3654885b9e2/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "LSID_276_Kepler",
+                    "type": {
+                        "id": "loadingscreen",
+                        "name": "Loading Screen"
+                    },
+                    "name": "XenoSlurp",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Game over, man.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/9409de94dc1c5a4ccbbedcdcd2589fa5/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/9409de94dc1c5a4ccbbedcdcd2589fa5/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/9409de94dc1c5a4ccbbedcdcd2589fa5/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/9409de94dc1c5a4ccbbedcdcd2589fa5/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Set.ToneTrip",
+                        "Cosmetics.Filter.Season.15"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "DoubleWide",
+            "categories": [
+                "Panel 17"
+            ]
+        },
+        {
+            "mainId": "SpaceGearBundle",
+            "displayName": "SPACE GEAR BUNDLE",
+            "displayDescription": "",
+            "displayType": "Item Bundle",
+            "mainType": "bundle",
+            "offerId": "v2:/843bb89e68e66a4c1c9ea309610d1ffeeac6583a03503516e613410260d0eef0",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Featured_SpaceGearBundle",
+                    "materialInstance": "MI_Featured_SpaceGearBundle",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Featured_SpaceGearBundle/MI_Featured_SpaceGearBundle.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/a67d6d2274b5562ec8153708592b5cf3/v2/MI_Featured_SpaceGearBundle/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/a67d6d2274b5562ec8153708592b5cf3/v2/MI_Featured_SpaceGearBundle/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 2300,
+                "finalPrice": 1500
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": {
+                "id": "vbucksoff",
+                "name": "800 V-Bucks Off",
+                "intensity": "Low"
+            },
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_KeplerFemale_C98JD",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Burst Case Scenario",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "That's some serious indigestion.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/884d014f76e5b53b99c53b4fa0ab35d1/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/884d014f76e5b53b99c53b4fa0ab35d1/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Set.ToneTrip",
+                        "Emote.Mech.Disabled.Art"
+                    ]
+                },
+                {
+                    "id": "Pickaxe_ID_551_KeplerFemale_AOYI5",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "P-5000 Power Loader Arm",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Requires a Class-2 rating or higher.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/99f842008f12aaa0c1c3c085ce474abf/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/99f842008f12aaa0c1c3c085ce474abf/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "Glider_ID_276_Kepler_BEUUP",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Cheyenne Dropship",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "In the pipe, five by five.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/473f6405cfaa120b38c99b7275a58dfb/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/473f6405cfaa120b38c99b7275a58dfb/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 17"
+            ]
+        },
+        {
+            "mainId": "CID_A_025_Athena_Commando_M_Kepler_UEN6V",
+            "displayName": "Xenomorph",
+            "displayDescription": "If you see it coming, it's already too late.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/ad9e84a64a084b6b443babd070b157b3d6147bf9645f5dd9c69d53d6df6f0b49",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_A_025_M_Kepler_UEN6V",
+                    "materialInstance": "MI_CID_A_025_M_Kepler",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_A_025_M_Kepler_UEN6V/MI_CID_A_025_M_Kepler.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/MI_CID_A_025_M_Kepler/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/MI_CID_A_025_M_Kepler/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1600,
+                "finalPrice": 1600
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": {
+                "id": "builtinemotekeplermale",
+                "text": "Outfit includes the built-in Xeno Menace emote!"
+            },
+            "granted": [
+                {
+                    "id": "CID_A_025_Athena_Commando_M_Kepler_UEN6V",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Xenomorph",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "If you see it coming, it's already too late.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/aeb82b7ba67cc619a5f0490cb4560ab1/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/aeb82b7ba67cc619a5f0490cb4560ab1/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/aeb82b7ba67cc619a5f0490cb4560ab1/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.UserFacingFlags.BuiltInEmote",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "BID_703_KeplerMale_ZTFJU",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Xenomorph Tail",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Razor-sharp and whatever the exact opposite of cuddly is.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/66df9bdbda49180e878b8bdbc068342b/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/66df9bdbda49180e878b8bdbc068342b/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/66df9bdbda49180e878b8bdbc068342b/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip",
+                        "Cosmetics.Backpack.IsCape"
+                    ]
+                }
+            ],
+            "priority": -3,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 17"
+            ]
+        },
+        {
+            "mainId": "CID_A_026_Athena_Commando_F_Kepler_2G59M",
+            "displayName": "Ellen Ripley",
+            "displayDescription": "Last survivor of the Nostromo.",
+            "displayType": "Outfit",
+            "mainType": "outfit",
+            "offerId": "v2:/b11653a026da2b6e9f59a955dfea63c24fa2f2ad1e6df7f739b152e48de593c8",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_A_026_F_Kepler_2G59M",
+                    "materialInstance": "MI_CID_A_026_F_Kepler",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_A_026_F_Kepler_2G59M/MI_CID_A_026_F_Kepler.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/MI_CID_A_026_F_Kepler/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/MI_CID_A_026_F_Kepler/info.en.png"
+                },
+                {
+                    "displayAsset": "DAv2_CID_A_026_F_Kepler_2G59M",
+                    "materialInstance": "MI_CID_A_026_F_Kepler_2",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_A_026_F_Kepler_2G59M/MI_CID_A_026_F_Kepler_2.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/MI_CID_A_026_F_Kepler_2/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/MI_CID_A_026_F_Kepler_2/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1500,
+                "finalPrice": 1500
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_A_026_Athena_Commando_F_Kepler_2G59M",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Ellen Ripley",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Last survivor of the Nostromo.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/37b2e41f10e1c53d4a170c0519148e94/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/37b2e41f10e1c53d4a170c0519148e94/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/37b2e41f10e1c53d4a170c0519148e94/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.UserFacingFlags.HasVariants",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                },
+                {
+                    "id": "BID_704_KeplerFemale_C0L25",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "Weyland-Yutani Cat Carrier",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "Jonesy's home-on-the-go. (No relation)",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/734ae6d4474ac22ac8f6b3654885b9e2/transparent.png",
+                        "featured": null,
+                        "background": "https://media.fortniteapi.io/images/cosmetics/734ae6d4474ac22ac8f6b3654885b9e2/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/734ae6d4474ac22ac8f6b3654885b9e2/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                }
+            ],
+            "priority": -4,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 17"
+            ]
+        },
+        {
+            "mainId": "EID_KeplerFemale_C98JD",
+            "displayName": "Burst Case Scenario",
+            "displayDescription": "That's some serious indigestion.",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/6117da50ec792a67d3d35b4818bffdd553b0d7fbe04e8be48ae2ecad1fa3ccd8",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_KeplerFemale_C98JD",
+                    "materialInstance": "MI_EID_KeplerFemale",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_KeplerFemale_C98JD/MI_EID_KeplerFemale.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/MI_EID_KeplerFemale/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/MI_EID_KeplerFemale/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 300,
+                "finalPrice": 300
+            },
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_KeplerFemale_C98JD",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Burst Case Scenario",
+                    "rarity": {
+                        "id": "Uncommon",
+                        "name": "UNCOMMON"
+                    },
+                    "series": null,
+                    "description": "That's some serious indigestion.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/884d014f76e5b53b99c53b4fa0ab35d1/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/884d014f76e5b53b99c53b4fa0ab35d1/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/884d014f76e5b53b99c53b4fa0ab35d1/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Set.ToneTrip",
+                        "Emote.Mech.Disabled.Art"
+                    ]
+                }
+            ],
+            "priority": -5,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 17"
+            ]
+        },
+        {
+            "mainId": "Glider_ID_276_Kepler_BEUUP",
+            "displayName": "Cheyenne Dropship",
+            "displayDescription": "In the pipe, five by five.",
+            "displayType": "Glider",
+            "mainType": "glider",
+            "offerId": "v2:/5cf8608761d98c3c216f2dab0ed35571a264f70ba9955f8aa7dddeac43e856c4",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Glider_ID_276_Kepler_BEUUP",
+                    "materialInstance": "MI_Glider_ID_276_Kepler",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Glider_ID_276_Kepler_BEUUP/MI_Glider_ID_276_Kepler.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/MI_Glider_ID_276_Kepler/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/MI_Glider_ID_276_Kepler/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1200,
+                "finalPrice": 1200
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Glider_ID_276_Kepler_BEUUP",
+                    "type": {
+                        "id": "glider",
+                        "name": "Glider"
+                    },
+                    "name": "Cheyenne Dropship",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": null,
+                    "description": "In the pipe, five by five.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/473f6405cfaa120b38c99b7275a58dfb/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/473f6405cfaa120b38c99b7275a58dfb/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/473f6405cfaa120b38c99b7275a58dfb/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                }
+            ],
+            "priority": -6,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 18"
+            ]
+        },
+        {
+            "mainId": "Pickaxe_ID_551_KeplerFemale_AOYI5",
+            "displayName": "P-5000 Power Loader Arm",
+            "displayDescription": "Requires a Class-2 rating or higher.",
+            "displayType": "Harvesting Tool",
+            "mainType": "pickaxe",
+            "offerId": "v2:/62451f22fcd3ce8dd64e31f55b2e93326e4042bee45e5551e43ca360668e464e",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_Pickaxe_ID_551_KeplerFemale_AOYI5",
+                    "materialInstance": "MI_Pickaxe_ID_551_KeplerFemale",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_Pickaxe_ID_551_KeplerFemale_AOYI5/MI_Pickaxe_ID_551_KeplerFemale.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/MI_Pickaxe_ID_551_KeplerFemale/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/MI_Pickaxe_ID_551_KeplerFemale/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-02-26",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 800,
+                "finalPrice": 800
+            },
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE"
+            },
+            "series": null,
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "Pickaxe_ID_551_KeplerFemale_AOYI5",
+                    "type": {
+                        "id": "pickaxe",
+                        "name": "Harvesting Tool"
+                    },
+                    "name": "P-5000 Power Loader Arm",
+                    "rarity": {
+                        "id": "Rare",
+                        "name": "RARE"
+                    },
+                    "series": null,
+                    "description": "Requires a Class-2 rating or higher.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/99f842008f12aaa0c1c3c085ce474abf/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/99f842008f12aaa0c1c3c085ce474abf/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/99f842008f12aaa0c1c3c085ce474abf/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "ToneTrip",
+                        "name": "In Space...",
+                        "partOf": "Part of the In Space... set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.15",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Set.ToneTrip"
+                    ]
+                }
+            ],
+            "priority": -7,
+            "section": {
+                "id": "InSpaceB",
+                "name": "In Space...",
+                "landingPriority": 89
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Small",
+            "categories": [
+                "Panel 18"
+            ]
+        },
+        {
+            "mainId": "CID_A_231_Athena_Commando_F_Ashes_TKGK9",
+            "displayName": "Dark Phoenix",
+            "displayDescription": "She is fire! And life incarnate!",
+            "displayType": "Item Bundle",
+            "mainType": "outfit",
+            "offerId": "v2:/ee60981ff872c5cbe42283a6bd12a4461dc8d7d74e4ff5afc72146f02a08b96b",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_CID_A_231_F_Ashes_TKGK9",
+                    "materialInstance": "MI_CID_A_231_F_Ashes",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_CID_A_231_F_Ashes_TKGK9/MI_CID_A_231_F_Ashes.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/8dd1f3710bd91bf2c5f1f5ccff381e9b/v2/MI_CID_A_231_F_Ashes/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/8dd1f3710bd91bf2c5f1f5ccff381e9b/v2/MI_CID_A_231_F_Ashes/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-11-12",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 1500,
+                "finalPrice": 1500
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": {
+                "id": "MarvelSeries",
+                "name": "MARVEL SERIES"
+            },
+            "banner": {
+                "id": "IncludesLoadingScreen",
+                "name": "Includes Loading Screen!",
+                "intensity": "High"
+            },
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "CID_A_231_Athena_Commando_F_Ashes_TKGK9",
+                    "type": {
+                        "id": "outfit",
+                        "name": "Outfit"
+                    },
+                    "name": "Dark Phoenix",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": {
+                        "id": "MarvelSeries",
+                        "name": "MARVEL SERIES"
+                    },
+                    "description": "She is fire! And life incarnate!",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/8dd1f3710bd91bf2c5f1f5ccff381e9b/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/8dd1f3710bd91bf2c5f1f5ccff381e9b/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/8dd1f3710bd91bf2c5f1f5ccff381e9b/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/8dd1f3710bd91bf2c5f1f5ccff381e9b/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "RemarkGlimpse",
+                        "name": "The Phoenix Force",
+                        "partOf": "Part of the The Phoenix Force set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.18",
+                        "Cosmetics.Set.RemarkGlimpse"
+                    ]
+                },
+                {
+                    "id": "BID_897_AshesFemale_DV4RB",
+                    "type": {
+                        "id": "backpack",
+                        "name": "BackBling"
+                    },
+                    "name": "The Phoenix Force",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": {
+                        "id": "MarvelSeries",
+                        "name": "MARVEL SERIES"
+                    },
+                    "description": "Only a sliver of its infinite, cosmic power.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/9c54eeb74b84f75a9bb36c87798f61de/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/9c54eeb74b84f75a9bb36c87798f61de/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/9c54eeb74b84f75a9bb36c87798f61de/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/9c54eeb74b84f75a9bb36c87798f61de/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "RemarkGlimpse",
+                        "name": "The Phoenix Force",
+                        "partOf": "Part of the The Phoenix Force set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.18",
+                        "Cosmetics.Set.RemarkGlimpse"
+                    ]
+                },
+                {
+                    "id": "LSID_364_Ashes_0XBPK",
+                    "type": {
+                        "id": "loadingscreen",
+                        "name": "Loading Screen"
+                    },
+                    "name": "Wrath of the Phoenix",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": {
+                        "id": "MarvelSeries",
+                        "name": "MARVEL SERIES"
+                    },
+                    "description": "The closer to the flame, the longer your shadow becomes.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/6834d2d27fc825923c97f52edbc33888/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/6834d2d27fc825923c97f52edbc33888/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/6834d2d27fc825923c97f52edbc33888/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/6834d2d27fc825923c97f52edbc33888/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "RemarkGlimpse",
+                        "name": "The Phoenix Force",
+                        "partOf": "Part of the The Phoenix Force set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.Filter.Season.18",
+                        "Cosmetics.Set.RemarkGlimpse"
+                    ]
+                }
+            ],
+            "priority": -1,
+            "section": {
+                "id": "Special",
+                "name": "More Offers",
+                "landingPriority": 50
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "DoubleWide",
+            "categories": [
+                "Panel 19"
+            ]
+        },
+        {
+            "mainId": "EID_Ashes_MYQ8O",
+            "displayName": "Rising Phoenix",
+            "displayDescription": "No longer is she the woman you once knew.",
+            "displayType": "Emote",
+            "mainType": "emote",
+            "offerId": "v2:/5c83a500159fe9966ef47ef902769ee9cad051ed115b28c24733ca974a79b3fe",
+            "displayAssets": [
+                {
+                    "displayAsset": "DAv2_EID_Ashes_MYQ8O",
+                    "materialInstance": "MI_EID_Ashes",
+                    "url": "https://media.fortniteapi.io/images/displayAssets/v2/DAv2_EID_Ashes_MYQ8O/MI_EID_Ashes.png",
+                    "flipbook": null,
+                    "background": "https://media.fortniteapi.io/images/cosmetics/791cd59cd5255780339a65b82548508f/v2/MI_EID_Ashes/background.png",
+                    "full_background": "https://media.fortniteapi.io/images/cosmetics/791cd59cd5255780339a65b82548508f/v2/MI_EID_Ashes/info.en.png"
+                }
+            ],
+            "firstReleaseDate": "2021-11-12",
+            "previousReleaseDate": "2021-11-14",
+            "giftAllowed": true,
+            "buyAllowed": true,
+            "price": {
+                "regularPrice": 300,
+                "finalPrice": 300
+            },
+            "rarity": {
+                "id": "Epic",
+                "name": "Epic"
+            },
+            "series": {
+                "id": "MarvelSeries",
+                "name": "MARVEL SERIES"
+            },
+            "banner": null,
+            "offerTag": null,
+            "granted": [
+                {
+                    "id": "EID_Ashes_MYQ8O",
+                    "type": {
+                        "id": "emote",
+                        "name": "Emote"
+                    },
+                    "name": "Rising Phoenix",
+                    "rarity": {
+                        "id": "Epic",
+                        "name": "Epic"
+                    },
+                    "series": {
+                        "id": "MarvelSeries",
+                        "name": "MARVEL SERIES"
+                    },
+                    "description": "No longer is she the woman you once knew.",
+                    "images": {
+                        "icon": "https://media.fortniteapi.io/images/791cd59cd5255780339a65b82548508f/transparent.png",
+                        "featured": "https://media.fortniteapi.io/images/791cd59cd5255780339a65b82548508f/full_featured.png",
+                        "background": "https://media.fortniteapi.io/images/cosmetics/791cd59cd5255780339a65b82548508f/v2/background.png",
+                        "full_background": "https://media.fortniteapi.io/images/cosmetics/791cd59cd5255780339a65b82548508f/v2/info.en.png"
+                    },
+                    "set": {
+                        "id": "RemarkGlimpse",
+                        "name": "The Phoenix Force",
+                        "partOf": "Part of the The Phoenix Force set."
+                    },
+                    "video": null,
+                    "audio": null,
+                    "gameplayTags": [
+                        "Cosmetics.EmoteType.Dance",
+                        "Cosmetics.Source.ItemShop",
+                        "Cosmetics.Filter.Season.18",
+                        "Emote.Mech.Disabled.Art",
+                        "Cosmetics.Set.RemarkGlimpse"
+                    ]
+                }
+            ],
+            "priority": -2,
+            "section": {
+                "id": "Special",
+                "name": "More Offers",
+                "landingPriority": 50
+            },
+            "groupIndex": 0,
+            "storeName": "BRSpecialFeatured",
+            "tileSize": "Normal",
+            "categories": [
+                "Panel 19"
+            ]
+        }
+    ]
+}
