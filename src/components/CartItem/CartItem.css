@@ -12,9 +12,13 @@
 .collection {
     font-size: 1.5rem;
 }
-.cart-close {
+
+.collection-item .secondary-content {
     cursor: pointer;
+}
+.cart-close {
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
 }
+

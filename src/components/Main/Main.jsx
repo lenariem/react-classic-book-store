@@ -58,6 +58,12 @@ export default function Main() {
     }
   };
 
+  const deleteFromCart = (id) => {
+    const newOrder = order.filter(item => item.id !== id);
+    setOrder(newOrder);
+    
+  }
+
   //get goods on componentDidMount
   useEffect(() => {
     getData(API_URL, setGoods);
@@ -82,6 +88,7 @@ export default function Main() {
         <CartList
           order={order}
           toggleCartDisplay={toggleCartDisplay}
+          deleteFromCart={deleteFromCart}
         />
       )}
     </main>
