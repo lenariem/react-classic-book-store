@@ -8,13 +8,29 @@ export default function CartItem({
   image,
   quantity,
   deleteFromCart,
+  incQuantity,
+  decQuantity,
 }) {
   return (
     <li className="collection-item avatar">
       <img src={image} alt={title} className="circle" />
       <span className="title">{title}</span>
       <p>
-        {price} x {quantity} = {(+price.slice(1) * +quantity).toFixed(2)}$
+        {price}{" "}
+        <i
+          className="material-icons cartQuantity"
+          onClick={() => decQuantity(id)}
+        >
+          remove
+        </i>{" "}
+        x{quantity}{" "}
+        <i
+          className="material-icons cartQuantity"
+          onClick={() => incQuantity(id)}
+        >
+          add
+        </i>{" "}
+        = {(+price.slice(1) * +quantity).toFixed(2)}$
       </p>
       <span
         className="secondary-content"

@@ -58,10 +58,40 @@ export default function Main() {
     }
   };
 
+  //delete from cart
   const deleteFromCart = (id) => {
     const newOrder = order.filter(item => item.id !== id);
     setOrder(newOrder);
-    
+  }
+
+  //increment and decrement quantity in cart
+  const incQuantity = (id) => {
+    const newOrder = order.map((item) => {
+      if (item.id === id) {
+        return {
+          ...item,
+          quantity: item.quantity + 1,
+        };
+      } else {
+        return item;
+      }
+    });
+    setOrder(newOrder);
+  };
+
+  const decQuantity = (id) => {
+    const newOrder = order.map((item) => {
+      if (item.id === id) {
+        const newQuantity = item.quantity - 1
+        return {
+          ...item,
+          quantity: newQuantity >= 0 ? newQuantity : 0,
+        };
+      } else {
+        return item;
+      }
+    });
+    setOrder(newOrder);
   }
 
   //get goods on componentDidMount
@@ -89,6 +119,8 @@ export default function Main() {
           order={order}
           toggleCartDisplay={toggleCartDisplay}
           deleteFromCart={deleteFromCart}
+          incQuantity={incQuantity}
+          decQuantity={decQuantity}
         />
       )}
     </main>

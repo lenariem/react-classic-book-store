@@ -21,6 +21,15 @@
     position: absolute;
     top: 0.5rem;
     right: 0.5rem;
+    cursor: pointer;
+}
+
+.cartQuantity {
+    cursor: pointer;
+    vertical-align: middle;
+    color: #00bcd4;
+    border: 0.3px solid #512da8;
+    border-radius: 5px;
 }
 
 @keyframes show {
