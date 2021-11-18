@@ -17,7 +17,7 @@ export default function Cart(props) {
     };
     window.addEventListener("keydown", close);
     return () => window.removeEventListener("keydown", close);
-  }, []);
+  }, [setCartShown]);
 
   return (
     <div

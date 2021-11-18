@@ -6,6 +6,7 @@ import GoodsList from "../GoodsList/GoodsList";
 import Cart from "../Cart/Cart";
 import CartList from "../CartList/CartList";
 import Popup from "../Popup/Popup";
+import Search from "../Search/Search";
 
 export default function Main() {
   const [goods, setGoods] = useState([]);
@@ -13,13 +14,15 @@ export default function Main() {
   const [order, setOrder] = useState([]);
   const [isCartShown, setCartShown] = useState(false);
   const [popupTitle, setPopupTitle] = useState('');
+  
 
   //fetch data from API
-  const getData = (url, setValue) => {
+  const getData = (urlToFetch, term='new') => {
+    const url = `${urlToFetch}${term.trim()}`
     fetch(url)
       .then((response) => response.json())
       .then((data) => {
-        data.books && setValue(data.books);
+        data.books && setGoods(data.books);
         setLoading(false);
       })
       .catch((err) => {
@@ -104,11 +107,14 @@ export default function Main() {
 
   //get goods on componentDidMount
   useEffect(() => {
-    getData(API_URL, setGoods);
+    getData(API_URL,'new');
   }, []);
+
+
 
   return (
     <main className="container content">
+      <Search getData={getData}/>
       <Cart
         order={order}
         quantity={order.length}
