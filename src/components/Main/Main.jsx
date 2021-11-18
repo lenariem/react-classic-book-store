@@ -5,12 +5,14 @@ import Preloader from "../Preloader/Preloader";
 import GoodsList from "../GoodsList/GoodsList";
 import Cart from "../Cart/Cart";
 import CartList from "../CartList/CartList";
+import Popup from "../Popup/Popup";
 
 export default function Main() {
   const [goods, setGoods] = useState([]);
   const [loading, setLoading] = useState(true);
   const [order, setOrder] = useState([]);
   const [isCartShown, setCartShown] = useState(false);
+  const [popupTitle, setPopupTitle] = useState('');
 
   //fetch data from API
   const getData = (url, setValue) => {
@@ -56,6 +58,7 @@ export default function Main() {
       });
       setOrder(newOrder);
     }
+    setPopupTitle(item.title);
   };
 
   //delete from cart
@@ -94,6 +97,11 @@ export default function Main() {
     setOrder(newOrder);
   }
 
+  //popup add to cart
+  const closePopup = () => {
+    setPopupTitle('');
+  }
+
   //get goods on componentDidMount
   useEffect(() => {
     getData(API_URL, setGoods);
@@ -123,6 +131,10 @@ export default function Main() {
           decQuantity={decQuantity}
         />
       )}
+
+      {
+        popupTitle && <Popup title={popupTitle} closePopup={closePopup}/>
+      }
     </main>
   );
 }

@@ -42,7 +42,7 @@ export default function CartList(props) {
           </b>
         </li>
       </ul>
-
+      <button className="secondary-content btn deep-purple darken-2">Delivery address and payment</button>
       <i
         className="material-icons cart-close"
         onClick={toggleCartDisplay}
