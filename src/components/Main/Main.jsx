@@ -113,6 +113,7 @@ export default function Main() {
         order={order}
         quantity={order.length}
         toggleCartDisplay={toggleCartDisplay}
+        setCartShown={setCartShown}
       />
       {loading ? (
         <Preloader />
