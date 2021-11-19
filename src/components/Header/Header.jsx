@@ -1,6 +1,6 @@
 import React from "react";
 import './Header.css';
-import Logo from "../../img/logo1.svg";
+import Logo from "../../img/logo.svg";
 import GitIcon from "../../img/github.svg";
 /* import { Link } from "react-router-dom"; */
 
@@ -15,6 +15,7 @@ export default function Header() {
             </div>
           {/* </Link> */}
 
+          <span className="logoText">IT BOOKS</span>  
           <ul id="nav-mobile" className="right hide-on-med-and-down">
             <li>
               <a

@@ -22,3 +22,10 @@ nav ul a:hover {
   transform: translate(-50%, 50%) rotate(90deg);
   cursor: pointer;
 }
+
+.logoText {
+  color: #fff;
+  margin-left: 160px;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
