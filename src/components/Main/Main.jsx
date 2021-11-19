@@ -125,7 +125,7 @@ export default function Main() {
         <Preloader />
       ) : (
         <div>
-          <GoodsList goods={goods} addToCart={addToCart} getData={getData}/>
+          <GoodsList goods={goods} addToCart={addToCart}/>
         </div>
       )}
 

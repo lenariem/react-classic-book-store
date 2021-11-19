@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./GoodItem.css";
-import { API_URL } from "../../config";
 
 export default function GoodItem(props) {
   const {
@@ -10,7 +9,6 @@ export default function GoodItem(props) {
     image = "No Book Cover available",
     price = "No Info",
     addToCart,
-    getData
   } = props;
 
   const [btnText, setBtnText] = useState("About Book");
@@ -39,7 +37,7 @@ export default function GoodItem(props) {
     <div className="card">
       {btnText === "About Book" ? (
         <>
-          <div className="card-image">
+          <div className="card-image" title="About this book" onClick={() => handleAboutBook(id)} >
             <img src={image} alt={title} />
           </div>
           <div className="card-content">

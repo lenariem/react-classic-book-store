@@ -6,7 +6,6 @@ export default function GoodsList(props) {
   const {
     goods = [],
     addToCart = Function.prototype,
-    getData = Function.prototype,
   } = props;
   
   if (!goods.length) {
@@ -20,7 +19,6 @@ export default function GoodsList(props) {
           key={item.isbn13}
           {...item}
           addToCart={addToCart}
-          getData={getData}
         />
       ))}
     </div>
