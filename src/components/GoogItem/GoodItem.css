@@ -10,7 +10,6 @@
 
 .card-content {
     flex-grow: 1;
-    cursor: pointer;
 }
 
 .card .card-image img {
@@ -24,4 +23,9 @@
 
 .card-action {
     box-shadow: 0px 0px 4px 2px #ffab91;
+}
+
+.moreBtn {
+    width: 160px;
+    margin: 0 auto 15px;
 }
