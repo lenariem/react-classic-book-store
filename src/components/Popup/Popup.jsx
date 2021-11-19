@@ -9,7 +9,7 @@ export default function Popup(props) {
         return () => {
             clearTimeout(timerId);
         }
-    }, [title]);
+    }, [closePopup]);
 
     return (
         <div id="toast-container">

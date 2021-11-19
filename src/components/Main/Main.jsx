@@ -62,6 +62,7 @@ export default function Main() {
       setOrder(newOrder);
     }
     setPopupTitle(item.title);
+    
   };
 
   //delete from cart
@@ -111,10 +112,9 @@ export default function Main() {
   }, []);
 
 
-
   return (
     <main className="container content">
-      <Search getData={getData}/>
+      <Search getData={getData} goodsLength={goods.length}/>
       <Cart
         order={order}
         quantity={order.length}

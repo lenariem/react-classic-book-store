@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Search.css";
 
-export default function Search({ getData }) {
+export default function Search({ getData, goodsLength }) {
   const [searchTerm, setSearchTerm] = useState("");
   const handleSearchTerm = (e) => {
     let term = e.target.value.toLowerCase();
@@ -48,6 +48,11 @@ export default function Search({ getData }) {
           </button>
         </div>
       </div>
+
+      {
+        searchTerm&& <p>Found books: {goodsLength} </p> 
+      }
+
     </>
   );
 }

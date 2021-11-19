@@ -1,8 +1,8 @@
-const API_KEY = process.env.REACT_APP_API_KEY;
+const STRIPE_KEY = process.env.REACT_APP_STRIPE_KEY;
 
 const API_URL = process.env.REACT_APP_API_URL;
 
 export {
-    API_KEY,
+    STRIPE_KEY,
     API_URL
 }
