@@ -48,6 +48,8 @@ export default function GoodItem(props) {
       ) : (
         <>
           <div className="card-content">
+            <p><b>{title}</b></p>
+            <hr />
             <p><b>Author:</b> {authors}</p>
             <p><b>Language:</b> {language}</p>
             <p><b>Pages:</b> {pages}</p>
