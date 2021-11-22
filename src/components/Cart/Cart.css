@@ -1,7 +1,8 @@
 .cart {
     position: fixed;
-    bottom: 2rem;
-    right: 2rem;
+    top: 5px;
+    bottom: unset;
+    right: 1rem;
     cursor: pointer;
     z-index: 5;
     padding: 1rem;

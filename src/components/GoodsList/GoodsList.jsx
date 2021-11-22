@@ -9,7 +9,7 @@ export default function GoodsList(props) {
   } = props;
   
   if (!goods.length) {
-    return <h3>No goods in shop now</h3>;
+    return <h3 className="noResult">No goods in shop now</h3>;
   }
 
   return (

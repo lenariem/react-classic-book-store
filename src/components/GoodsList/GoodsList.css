@@ -5,3 +5,9 @@
     margin-top: 20px;
     margin-bottom: 80px;
 }
+
+@media(max-width: 655px) {
+    .noResult {
+     font-size: 18px;
+    }
+  }

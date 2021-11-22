@@ -29,3 +29,13 @@ nav ul a:hover {
   font-weight: 700;
   font-size: 1.3rem;
 }
+
+@media(max-width: 655px) {
+  .logoText {
+      display: none;
+  }
+  .logoIcon {
+    width: 90px;
+    padding: 5px;
+  }
+}
