@@ -33,8 +33,7 @@ export default function GoodItem(props) {
       });
   };
   
-  console.log(singleBookData)
-  return (
+    return (
     <div className="card">
       {btnText === "About Book" ? (
         <>

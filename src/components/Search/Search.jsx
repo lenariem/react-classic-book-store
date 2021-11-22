@@ -1,8 +1,10 @@
 import React, { useState } from "react";
+import {API_URL} from '../../config';
 import "./Search.css";
 
 export default function Search({ getData, goodsLength }) {
   const [searchTerm, setSearchTerm] = useState("");
+  
   const handleSearchTerm = (e) => {
     let term = e.target.value.toLowerCase();
     setSearchTerm(term);
@@ -10,7 +12,7 @@ export default function Search({ getData, goodsLength }) {
 
   const handleSearch = () => {
     if (searchTerm) {
-      getData("https://api.itbook.store/1.0/search/", searchTerm);
+      getData(`${API_URL}search/`, searchTerm);
     }
   };
 
@@ -19,7 +21,7 @@ export default function Search({ getData, goodsLength }) {
     if (e.key === "Enter") {
       handleSearch();
     }
-  }; 
+  };
 
   return (
     <>
@@ -47,9 +49,7 @@ export default function Search({ getData, goodsLength }) {
         </div>
       </div>
 
-      {
-        searchTerm && <p>Found books: {goodsLength} </p> 
-      }
+      {searchTerm && <p>Found books: {goodsLength} </p>}
     </>
   );
 }

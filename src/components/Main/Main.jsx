@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { API_URL } from "../../config";
-import "./Main.css";
 import Preloader from "../Preloader/Preloader";
 import GoodsList from "../GoodsList/GoodsList";
 import Cart from "../Cart/Cart";
@@ -13,12 +12,11 @@ export default function Main() {
   const [loading, setLoading] = useState(true);
   const [order, setOrder] = useState([]);
   const [isCartShown, setCartShown] = useState(false);
-  const [popupTitle, setPopupTitle] = useState('');
-  
+  const [popupTitle, setPopupTitle] = useState("");
 
   //fetch data from API
-  const getData = (urlToFetch, term='new') => {
-    const url = `${urlToFetch}${term.trim()}`
+  const getData = (urlToFetch, term = "new") => {
+    const url = `${urlToFetch}${term.trim()}`;
     fetch(url)
       .then((response) => response.json())
       .then((data) => {
@@ -62,14 +60,13 @@ export default function Main() {
       setOrder(newOrder);
     }
     setPopupTitle(item.title);
-    
   };
 
   //delete from cart
   const deleteFromCart = (id) => {
-    const newOrder = order.filter(item => item.id !== id);
+    const newOrder = order.filter((item) => item.id !== id);
     setOrder(newOrder);
-  }
+  };
 
   //increment and decrement quantity in cart
   const incQuantity = (id) => {
@@ -89,7 +86,7 @@ export default function Main() {
   const decQuantity = (id) => {
     const newOrder = order.map((item) => {
       if (item.id === id) {
-        const newQuantity = item.quantity - 1
+        const newQuantity = item.quantity - 1;
         return {
           ...item,
           quantity: newQuantity >= 0 ? newQuantity : 0,
@@ -99,22 +96,21 @@ export default function Main() {
       }
     });
     setOrder(newOrder);
-  }
+  };
 
   //popup add to cart
   const closePopup = () => {
-    setPopupTitle('');
-  }
+    setPopupTitle("");
+  };
 
   //get goods on componentDidMount
   useEffect(() => {
-    getData(API_URL,'new');
+    getData(API_URL, "new");
   }, []);
-
 
   return (
     <main className="container content">
-      <Search getData={getData} goodsLength={goods.length}/>
+      <Search getData={getData} goodsLength={goods.length} />
       <Cart
         order={order}
         quantity={order.length}
@@ -125,7 +121,7 @@ export default function Main() {
         <Preloader />
       ) : (
         <div>
-          <GoodsList goods={goods} addToCart={addToCart}/>
+          <GoodsList goods={goods} addToCart={addToCart} />
         </div>
       )}
 
@@ -139,9 +135,7 @@ export default function Main() {
         />
       )}
 
-      {
-        popupTitle && <Popup title={popupTitle} closePopup={closePopup}/>
-      }
+      {popupTitle && <Popup title={popupTitle} closePopup={closePopup} />}
     </main>
   );
 }
