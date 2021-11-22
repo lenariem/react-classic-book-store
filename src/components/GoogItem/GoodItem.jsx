@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./GoodItem.css";
+import { API_URL } from "../../config";
 
 export default function GoodItem(props) {
   const {
@@ -22,7 +23,7 @@ export default function GoodItem(props) {
       setBtnText("About Book");
     }
    
-    fetch(`https://api.itbook.store/1.0/books/${bookId}`)
+    fetch(`${API_URL}books/${bookId}`)
       .then((response) => response.json())
       .then((data) => {
         data && setSingleBookData(data);

@@ -5,9 +5,7 @@ export default function Search({ getData, goodsLength }) {
   const [searchTerm, setSearchTerm] = useState("");
   const handleSearchTerm = (e) => {
     let term = e.target.value.toLowerCase();
-
     setSearchTerm(term);
-    // localStorage.setItem("rememberSearch", term);
   };
 
   const handleSearch = () => {
@@ -50,9 +48,8 @@ export default function Search({ getData, goodsLength }) {
       </div>
 
       {
-        searchTerm&& <p>Found books: {goodsLength} </p> 
+        searchTerm && <p>Found books: {goodsLength} </p> 
       }
-
     </>
   );
 }
