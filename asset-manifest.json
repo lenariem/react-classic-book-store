@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-book-store/static/css/main.e0ed8eea.chunk.css",
-    "main.js": "/react-book-store/static/js/main.1371df92.chunk.js",
-    "main.js.map": "/react-book-store/static/js/main.1371df92.chunk.js.map",
+    "main.js": "/react-book-store/static/js/main.44fc2052.chunk.js",
+    "main.js.map": "/react-book-store/static/js/main.44fc2052.chunk.js.map",
     "runtime-main.js": "/react-book-store/static/js/runtime-main.a89f050e.js",
     "runtime-main.js.map": "/react-book-store/static/js/runtime-main.a89f050e.js.map",
     "static/js/2.57033c7a.chunk.js": "/react-book-store/static/js/2.57033c7a.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a89f050e.js",
     "static/js/2.57033c7a.chunk.js",
     "static/css/main.e0ed8eea.chunk.css",
-    "static/js/main.1371df92.chunk.js"
+    "static/js/main.44fc2052.chunk.js"
   ]
 }
